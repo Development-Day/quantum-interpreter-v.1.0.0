@@ -226,7 +226,7 @@ python gui.py
 ![Матрица](docs/quantum_space.png)
 ![Запутанность](docs/entanglement.png)
 ![Сводный график](docs/summary_1.png)
-![GUI](docs/gui_screnshot.png)
+![GUI](docs/gui_screnshoot.png)
 
 ### 3. Web (Streamlit)
 
