@@ -1,0 +1,7 @@
+set_portal_q a 1
+set_portal_q b 2
+entangle_portals a b
+bloch 1
+bloch 2
+summary
+print_state

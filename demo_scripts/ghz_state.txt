@@ -1,0 +1,9 @@
+config num_qubits 3
+h 0
+cx 0 1
+cx 1 2
+bloch 0
+bloch 1
+bloch 2
+summary
+print_state
